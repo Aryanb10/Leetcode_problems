@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanb10/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Aryanb10/Leetcode_problems/tree/master/0198-house-robber) |
@@ -27,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aryanb10/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryanb10/Leetcode_problems/tree/master/0242-valid-anagram) |
@@ -64,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Aryanb10/Leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
