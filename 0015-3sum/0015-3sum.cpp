@@ -6,11 +6,11 @@ public:
         int right;
         sort(nums.begin(),nums.end());
         for(int i=0;i<nums.size();i++){
+            left=i+1;
+            right=nums.size()-1;
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
             }
-            left=i+1;
-            right=nums.size()-1;
             while(left<right){
                 int currsum=nums[i]+nums[left]+nums[right];
                 if(currsum<0){
