@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanb10/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aryanb10/Leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Aryanb10/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Aryanb10/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
