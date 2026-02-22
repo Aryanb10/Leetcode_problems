@@ -89,4 +89,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanb10/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanb10/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aryanb10/Leetcode_problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aryanb10/Leetcode_problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
