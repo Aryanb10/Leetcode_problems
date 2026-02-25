@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryanb10/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Aryanb10/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanb10/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/Aryanb10/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 ## Monotonic Stack
 |  |
 | ------- |
