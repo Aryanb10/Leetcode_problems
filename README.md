@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/Aryanb10/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aryanb10/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Aryanb10/Leetcode_problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Aryanb10/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@
 | [0069-sqrtx](https://github.com/Aryanb10/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryanb10/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Aryanb10/Leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Aryanb10/Leetcode_problems/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
