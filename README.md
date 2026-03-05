@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanb10/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Aryanb10/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Aryanb10/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aryanb10/Leetcode_problems/tree/master/0242-valid-anagram) |
@@ -102,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aryanb10/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanb10/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aryanb10/Leetcode_problems/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Aryanb10/Leetcode_problems/tree/master/0739-daily-temperatures) |
