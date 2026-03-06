@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Aryanb10/Leetcode_problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Aryanb10/Leetcode_problems/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Aryanb10/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryanb10/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Aryanb10/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Aryanb10/Leetcode_problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aryanb10/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
