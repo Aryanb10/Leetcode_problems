@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryanb10/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanb10/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanb10/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
@@ -92,6 +93,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryanb10/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Aryanb10/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryanb10/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryanb10/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
