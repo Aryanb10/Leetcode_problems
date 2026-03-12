@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanb10/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Aryanb10/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanb10/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanb10/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanb10/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Aryanb10/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanb10/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aryanb10/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Aryanb10/Leetcode_problems/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Aryanb10/Leetcode_problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
