@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanb10/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Aryanb10/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Aryanb10/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Aryanb10/Leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryanb10/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Aryanb10/Leetcode_problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryanb10/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Aryanb10/Leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -98,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryanb10/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanb10/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aryanb10/Leetcode_problems/tree/master/0198-house-robber) |
 ## Binary Search
