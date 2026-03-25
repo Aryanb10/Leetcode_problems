@@ -164,4 +164,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aryanb10/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aryanb10/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aryanb10/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
