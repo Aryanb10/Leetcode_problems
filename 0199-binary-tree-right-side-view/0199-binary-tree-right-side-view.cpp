@@ -15,7 +15,8 @@ public:
         vector<int>ans;
         if(root==NULL) 
         return ans;
-        queue<TreeNode*>q{{root}};
+        queue<TreeNode*>q;
+        q.push(root);
         while(q.size()){
             ans.push_back(q.front()->val);
             for(int i=q.size(); i; i--){
