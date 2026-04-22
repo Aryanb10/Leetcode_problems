@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanb10/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Aryanb10/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Aryanb10/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Aryanb10/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanb10/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanb10/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryanb10/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Aryanb10/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryanb10/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Aryanb10/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanb10/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aryanb10/Leetcode_problems/tree/master/0198-house-robber) |
 ## Binary Search
