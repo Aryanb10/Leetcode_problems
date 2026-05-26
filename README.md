@@ -109,6 +109,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryanb10/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aryanb10/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aryanb10/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanb10/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aryanb10/Leetcode_problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0509-fibonacci-number) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryanb10/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Aryanb10/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aryanb10/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanb10/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Aryanb10/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0509-fibonacci-number) |
@@ -247,5 +249,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aryanb10/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
