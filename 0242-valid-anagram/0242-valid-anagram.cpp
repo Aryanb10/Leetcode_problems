@@ -1,22 +1,31 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.length() != t.length()) {
+         unordered_map<char, int> mp;
+
+        if (s.length() != t.length())
             return false;
+
+        for (char c : s) {
+            mp[c]++;
         }
-        
-        vector<int> freq(26, 0);
-        for (int i = 0; i < s.length(); i++) {
-            freq[s[i] - 'a']++;
-            freq[t[i] - 'a']--;
-        }
-        
-        for (int i = 0; i < freq.size(); i++) {
-            if (freq[i] != 0) {
+
+        for (char c : t) {
+
+            if (mp.find(c) == mp.end()) {
                 return false;
             }
+
+            mp[c]--;
+
+            if (mp[c] == 0) {
+                mp.erase(c);
+            }
+
+            if (mp.empty()) {
+                return true;
+            }
         }
-        
-        return true;
+        return false;
     }
 };
