@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/Aryanb10/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aryanb10/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanb10/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aryanb10/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanb10/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aryanb10/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aryanb10/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aryanb10/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
