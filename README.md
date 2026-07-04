@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanb10/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Aryanb10/Leetcode_problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aryanb10/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aryanb10/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aryanb10/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanb10/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryanb10/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Aryanb10/Leetcode_problems/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
