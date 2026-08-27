@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/Aryanb10/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Aryanb10/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Aryanb10/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Aryanb10/Leetcode_problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanb10/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanb10/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanb10/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -199,6 +200,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aryanb10/Leetcode_problems/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 ## Tree
@@ -269,4 +271,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aryanb10/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aryanb10/Leetcode_problems/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aryanb10/Leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
